@@ -1,0 +1,306 @@
+[
+    {
+        "title": "DOCS",
+        "url": "https://docs.mparticle.com/"
+    },
+    {
+        "title": "DOCS",
+        "url": "https://docs.mparticle.com/"
+    },
+    {
+        "title": "Home",
+        "url": "https://docs.mparticle.com/"
+    },
+    {
+        "title": "Guides",
+        "url": "https://docs.mparticle.com/guides/"
+    },
+    {
+        "title": "Developers",
+        "url": "https://docs.mparticle.com/developers/"
+    },
+    {
+        "title": "Integrations",
+        "url": "https://docs.mparticle.com/integrations/"
+    },
+    {
+        "title": "Changelog",
+        "url": "https://changelog.mparticle.com"
+    },
+    {
+        "title": "Sign Up",
+        "url": "https://www.mparticle.com/free-trial"
+    },
+    {
+        "title": "Go to 'Create an input'",
+        "url": "https://docs.mparticle.com/guides/getting-started/create-an-input"
+    },
+    {
+        "title": "Go to 'Verify'",
+        "url": "https://docs.mparticle.com/guides/getting-started/start-capturing-data/#verify-look-for-incoming-data-in-the-live-stream"
+    },
+    {
+        "title": "Go to 'Connect an event output'",
+        "url": "https://docs.mparticle.com/guides/getting-started/connect-an-event-output"
+    },
+    {
+        "title": "IdentityManage user identities with IDSync",
+        "url": "https://docs.mparticle.com/guides/idsync/introduction"
+    },
+    {
+        "title": "Data MasterView and enforce your data quality",
+        "url": "https://docs.mparticle.com/guides/data-master/introduction"
+    },
+    {
+        "title": "AudiencesEngage customer cohorts",
+        "url": "https://docs.mparticle.com/guides/personalization/audiences/overview"
+    },
+    {
+        "title": "Custom RulesTransform data as it enters and leaves mParticle",
+        "url": "https://docs.mparticle.com/guides/platform-guide/rules"
+    },
+    {
+        "title": "User Activity ViewGet a complete view of your users",
+        "url": "https://docs.mparticle.com/guides/platform-guide/activity/#user-activity"
+    },
+    {
+        "title": "User PrivacyEnsure compliance with GDPR, CCPA, and your privacy policies",
+        "url": "https://docs.mparticle.com/guides/data-privacy-controls"
+    },
+    {
+        "title": "Events APISend events directly to mParticle",
+        "url": "https://docs.mparticle.com/developers/server/http"
+    },
+    {
+        "title": "Profile APIReal-time API to drive user personalization",
+        "url": "https://docs.mparticle.com/developers/profile-api"
+    },
+    {
+        "title": "Firehose APIBuild your own custom integrations",
+        "url": "https://docs.mparticle.com/developers/partners/firehose"
+    },
+    {
+        "title": "Android",
+        "url": "https://docs.mparticle.com/developers/quickstart/android"
+    },
+    {
+        "title": "iOS",
+        "url": "https://docs.mparticle.com/developers/quickstart/ios"
+    },
+    {
+        "title": "Web",
+        "url": "https://docs.mparticle.com/developers/quickstart/web"
+    },
+    {
+        "title": "View all",
+        "url": "https://docs.mparticle.com/developers"
+    },
+    {
+        "title": "HTTP",
+        "url": "https://docs.mparticle.com/developers/server/http"
+    },
+    {
+        "title": "Node",
+        "url": "https://docs.mparticle.com/developers/server/node"
+    },
+    {
+        "title": "Python",
+        "url": "https://docs.mparticle.com/developers/server/python"
+    },
+    {
+        "title": "Ruby",
+        "url": "https://docs.mparticle.com/developers/server/ruby"
+    },
+    {
+        "title": "JSON Reference",
+        "url": "https://docs.mparticle.com/developers/server/json-reference"
+    },
+    {
+        "title": "View all",
+        "url": "https://docs.mparticle.com/developers/server/http"
+    },
+    {
+        "title": "Branch",
+        "url": "https://docs.mparticle.com/integrations/branch-metrics/feed"
+    },
+    {
+        "title": "AppsFlyer",
+        "url": "https://docs.mparticle.com/integrations/appsflyer/feed"
+    },
+    {
+        "title": "Braze",
+        "url": "https://docs.mparticle.com/integrations/braze/feed"
+    },
+    {
+        "title": "View all",
+        "url": "https://docs.mparticle.com/integrations?isFeed=true"
+    },
+    {
+        "title": "Custom CSV Feed",
+        "url": "https://docs.mparticle.com/guides/csv/import"
+    },
+    {
+        "title": "View all",
+        "url": "https://docs.mparticle.com/guides/csv/import"
+    },
+    {
+        "title": "Mixpanel",
+        "url": "https://docs.mparticle.com/integrations/mixpanel/event"
+    },
+    {
+        "title": "Amplitude",
+        "url": "https://docs.mparticle.com/integrations/amplitude/event"
+    },
+    {
+        "title": "Facebook",
+        "url": "https://docs.mparticle.com/integrations/facebook/event"
+    },
+    {
+        "title": "Braze",
+        "url": "https://docs.mparticle.com/integrations/braze/event"
+    },
+    {
+        "title": "AppsFlyer",
+        "url": "https://docs.mparticle.com/integrations/appsflyer/event"
+    },
+    {
+        "title": "View all",
+        "url": "https://docs.mparticle.com/integrations"
+    },
+    {
+        "title": "Facebook",
+        "url": "https://docs.mparticle.com/integrations/facebook/audience"
+    },
+    {
+        "title": "Snapchat",
+        "url": "https://docs.mparticle.com/integrations/snapchat/audience"
+    },
+    {
+        "title": "Twitter",
+        "url": "https://docs.mparticle.com/integrations/twitter/audience"
+    },
+    {
+        "title": "Braze",
+        "url": "https://docs.mparticle.com/integrations/braze/audience"
+    },
+    {
+        "title": "Pinterest",
+        "url": "https://docs.mparticle.com/integrations/pinterest/audience"
+    },
+    {
+        "title": "View all",
+        "url": "https://docs.mparticle.com/integrations"
+    },
+    {
+        "title": "DOCS",
+        "url": "https://docs.mparticle.com/"
+    },
+    {
+        "title": "mParticle Docs",
+        "url": "https://docs.mparticle.com/"
+    },
+    {
+        "title": "Home",
+        "url": "https://docs.mparticle.com/"
+    },
+    {
+        "title": "Guides",
+        "url": "https://docs.mparticle.com/guides/"
+    },
+    {
+        "title": "Developers",
+        "url": "https://docs.mparticle.com/developers/"
+    },
+    {
+        "title": "Integrations",
+        "url": "https://docs.mparticle.com/integrations/"
+    },
+    {
+        "title": "Analytics Docs",
+        "url": "https://support.mparticle.com/hc/en-us/categories/11229686709645"
+    },
+    {
+        "title": "Overview",
+        "url": "https://support.mparticle.com/hc/en-us/categories/11229701873421"
+    },
+    {
+        "title": "Getting Started",
+        "url": "https://support.mparticle.com/hc/en-us/categories/11229686709645"
+    },
+    {
+        "title": "Developers",
+        "url": "https://support.mparticle.com/hc/en-us/categories/11229725035533"
+    },
+    {
+        "title": "Expert Training",
+        "url": "https://support.mparticle.com/hc/en-us/categories/11229720711693"
+    },
+    {
+        "title": "Cortex Docs",
+        "url": "https://www.vidora.com/docs/"
+    },
+    {
+        "title": "Overview",
+        "url": "https://www.vidora.com/docs/?top-category=overview"
+    },
+    {
+        "title": "Getting Started",
+        "url": "https://www.vidora.com/docs/?top-category=getting-started"
+    },
+    {
+        "title": "Developers",
+        "url": "https://www.vidora.com/docs/?top-category=developer-docs"
+    },
+    {
+        "title": "Using Cortex",
+        "url": "https://www.vidora.com/docs/?top-category=using-cortex"
+    },
+    {
+        "title": "Blog",
+        "url": "https://www.mparticle.com/blog/"
+    },
+    {
+        "title": "Podcast",
+        "url": "https://www.mparticle.com/connected-podcast/"
+    },
+    {
+        "title": "Resources",
+        "url": "https://www.mparticle.com/resources/"
+    },
+    {
+        "title": "Community",
+        "url": "https://www.reddit.com/r/mparticle/"
+    },
+    {
+        "title": "Change log",
+        "url": "https://changelog.mparticle.com/en"
+    },
+    {
+        "title": "Help Center",
+        "url": "https://support.mparticle.com/hc/en-us"
+    },
+    {
+        "title": "Demo",
+        "url": "https://demo.mparticle.com/activity/app"
+    },
+    {
+        "title": "Become a Partner",
+        "url": "https://www.mparticle.com/partner/"
+    },
+    {
+        "title": "mParticle.com",
+        "url": "https://www.mparticle.com/"
+    },
+    {
+        "title": "Privacy Policy",
+        "url": "https://www.mparticle.com/privacypolicy/"
+    },
+    {
+        "title": "Cookie Policy",
+        "url": "https://www.mparticle.com/cookie-policy/"
+    },
+    {
+        "title": "Do Not Sell or Share My Personal Data",
+        "url": "#"
+    }
+]

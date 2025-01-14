@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Jump to Content",
+        "url": "#content"
+    },
+    {
+        "title": "",
+        "url": "https://docs.lytics.com/"
+    },
+    {
+        "title": "Home",
+        "url": "https://docs.lytics.com/"
+    },
+    {
+        "title": "Documentation",
+        "url": "https://docs.lytics.com/docs"
+    },
+    {
+        "title": "API Reference",
+        "url": "https://docs.lytics.com/reference"
+    },
+    {
+        "title": "Product Updates",
+        "url": "https://docs.lytics.com/changelog"
+    },
+    {
+        "title": "Community",
+        "url": "https://docs.lytics.com/discuss"
+    },
+    {
+        "title": "Log In",
+        "url": "https://docs.lytics.com/login?redirect_uri=/"
+    },
+    {
+        "title": "",
+        "url": "https://docs.lytics.com/"
+    },
+    {
+        "title": "Log In",
+        "url": "https://docs.lytics.com/login?redirect_uri=/"
+    },
+    {
+        "title": "Get Started",
+        "url": "https://docs.lytics.com/docs"
+    },
+    {
+        "title": "API Reference",
+        "url": "https://docs.lytics.com/reference"
+    },
+    {
+        "title": "Home",
+        "url": "https://docs.lytics.com/"
+    },
+    {
+        "title": "Documentation",
+        "url": "https://docs.lytics.com/docs"
+    },
+    {
+        "title": "API Reference",
+        "url": "https://docs.lytics.com/reference"
+    },
+    {
+        "title": "Product Updates",
+        "url": "https://docs.lytics.com/changelog"
+    },
+    {
+        "title": "Community",
+        "url": "https://docs.lytics.com/discuss"
+    },
+    {
+        "title": "Developer Quickstart",
+        "url": "https://docs.lytics.com/docs/developer-quickstart"
+    },
+    {
+        "title": "What is Vault?",
+        "url": "https://docs.lytics.com/docs/what-is-vault"
+    },
+    {
+        "title": "Accessing Accounts",
+        "url": "https://docs.lytics.com/docs/account-details"
+    },
+    {
+        "title": "Monitoring Metrics and Alerts",
+        "url": "https://docs.lytics.com/docs/monitoring-and-alerts"
+    },
+    {
+        "title": "View More\u2026",
+        "url": "https://docs.lytics.com/docs/what-is-vault"
+    },
+    {
+        "title": "Identity Resolution",
+        "url": "https://docs.lytics.com/docs/identity-resolution"
+    },
+    {
+        "title": "Consent & Privacy",
+        "url": "https://docs.lytics.com/docs/consent"
+    },
+    {
+        "title": "Client & Server Side Cookies",
+        "url": "https://docs.lytics.com/docs/client-server-side-cookie-deep-dive"
+    },
+    {
+        "title": "View More\u2026",
+        "url": "https://docs.lytics.com/docs/identity-resolution"
+    },
+    {
+        "title": "Data Pipeline",
+        "url": "https://docs.lytics.com/docs/pipeline"
+    },
+    {
+        "title": "Schema Management",
+        "url": "https://docs.lytics.com/docs/schema-management"
+    },
+    {
+        "title": "Identity",
+        "url": "https://docs.lytics.com/docs/identity"
+    },
+    {
+        "title": "What is Cloud Connect?",
+        "url": "https://docs.lytics.com/docs/cloud-connect-intro"
+    },
+    {
+        "title": "Connecting Warehouses",
+        "url": "https://docs.lytics.com/docs/managing-cloud-connections"
+    },
+    {
+        "title": "Data Models & Queries",
+        "url": "https://docs.lytics.com/docs/creating-cloud-connect-audiences"
+    },
+    {
+        "title": "View More\u2026",
+        "url": "https://docs.lytics.com/docs/cloud-connect-intro"
+    },
+    {
+        "title": "User Profiles",
+        "url": "https://docs.lytics.com/docs/understanding-user-profiles"
+    },
+    {
+        "title": "Audiences",
+        "url": "https://docs.lytics.com/docs/audiences"
+    },
+    {
+        "title": "Reports",
+        "url": "https://docs.lytics.com/docs/getting-started-with-reports"
+    },
+    {
+        "title": "View More\u2026",
+        "url": "https://docs.lytics.com/docs/understanding-user-profiles"
+    },
+    {
+        "title": "Leveraging User Profiles",
+        "url": "https://docs.lytics.com/docs/leveraging-user-profiles"
+    },
+    {
+        "title": "Data Collection & Onboarding",
+        "url": "https://docs.lytics.com/docs/data-collection-onboarding"
+    },
+    {
+        "title": "Data Management",
+        "url": "https://docs.lytics.com/docs/data-management"
+    },
+    {
+        "title": "View More\u2026",
+        "url": "https://docs.lytics.com/docs/leveraging-user-profiles"
+    },
+    {
+        "title": "Web",
+        "url": "https://docs.lytics.com/docs/sdks-web"
+    },
+    {
+        "title": "Mobile",
+        "url": "https://docs.lytics.com/docs/sdks-mobile"
+    },
+    {
+        "title": "Chrome Extension",
+        "url": "https://docs.lytics.com/docs/chrome-extension"
+    },
+    {
+        "title": "Lytics Integration Options",
+        "url": "https://docs.lytics.com/docs/lytics-integration-options"
+    },
+    {
+        "title": "Acoustic",
+        "url": "https://docs.lytics.com/docs/acoustic"
+    },
+    {
+        "title": "Adobe",
+        "url": "https://docs.lytics.com/docs/adobe"
+    },
+    {
+        "title": "View More\u2026",
+        "url": "https://docs.lytics.com/docs/lytics-integration-options"
+    },
+    {
+        "title": "Partner Types",
+        "url": "https://docs.lytics.com/docs/partner-types"
+    },
+    {
+        "title": "Lytics Communication",
+        "url": "https://docs.lytics.com/docs/lytics-communication"
+    },
+    {
+        "title": "Insights",
+        "url": "https://docs.lytics.com/docs/insights"
+    },
+    {
+        "title": "Importing External Experiences",
+        "url": "https://docs.lytics.com/docs/importing-external-experiences"
+    },
+    {
+        "title": "IDP-initiated SSO (legacy)",
+        "url": "https://docs.lytics.com/docs/idp-initiated-sso-legacy"
+    },
+    {
+        "title": "View More\u2026",
+        "url": "https://docs.lytics.com/docs/insights"
+    }
+]
