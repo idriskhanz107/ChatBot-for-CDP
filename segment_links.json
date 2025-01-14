@@ -1,15 +1,10 @@
 [
     {
-        "text": "Overview",
-        "url": "https://segment.com/docs/connections/overview/"
+        "title": "Getting Started with mParticle",
+        "url": "https://docs.mparticle.com/getting-started/"
     },
     {
-        "text": "Sources",
-        "url": "https://segment.com/docs/connections/sources/"
-    },
-    {
-        "text": "Destinations",
-        "url": "https://segment.com/docs/connections/destinations/"
+        "title": "Data Integration",
+        "url": "https://docs.mparticle.com/integrations/"
     }
-    
 ]
